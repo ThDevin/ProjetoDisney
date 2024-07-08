@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+.foto2 {
+    background-image: url('../../../public/images/timaopumba.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    justify-content: center;
+}
+
+.logomini {
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.procurar {
+    position: absolute;
+    left: 75rem;
+    top: 95px;
+    border: none;
+    height: 6px;
+    width: 270px;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    outline: none;
+}
+
+.botao {
+    position: absolute;
+    left: 93rem;
+    top: 95px;
+    height: 13px;
+}

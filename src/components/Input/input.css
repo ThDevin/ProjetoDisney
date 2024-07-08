@@ -1,0 +1,23 @@
+.foto {
+    background-image: url('../../../public/images/fundo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+   }
+
+.conteudo {
+    display: flex;
+    width: 100vw;
+}
+
+.pesquisar {
+    margin: 0px 0px 0px 10rem;
+    border: none;
+    height: 20px;
+    width: 270px;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    outline: none;
+
+}

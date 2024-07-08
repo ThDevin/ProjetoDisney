@@ -1,0 +1,15 @@
+.lupa {
+    background-color: white;
+    border: none;
+    padding-right: 10px;
+    font-size: 5px;
+    margin: 0px;
+    
+}
+
+.butao {
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+}
